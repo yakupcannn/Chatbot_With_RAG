@@ -1,7 +1,7 @@
 # Chatbot_With_RAG
 
 ## Purpose Of Project 
-This project has been taught us how Chatbot works with Retrieval Augmented Generation. This means that we upload some documents and Chatbot answers our question based on uploaded documents . The response is not pure knowledge from vector database . It is mixed with knowledge and creativity coming from LLM .
+This project has taught us how Chatbot works with Retrieval Augmented Generation. This means that we upload some documents and Chatbot answers our question based on uploaded documents . The response is not pure knowledge from vector database . It is mixed with knowledge and creativity coming from LLM .
 
 ## Libraries 
 - Langchain
